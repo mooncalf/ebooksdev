@@ -40,7 +40,7 @@ dfn, em, i {
 
 html {
     box-sizing: border-box;
-    font-family: avenir, sans-serif;
+    font-family: georgia, sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
     overflow-y: scroll;
@@ -54,7 +54,7 @@ body, html {
 
 body {
     color: #313b3f;
-    font-family: charter, serif;
+    font-family: georgia, serif;
     font-size: 1.6rem;
     line-height: 1.6em;
     font-weight: 400;
@@ -76,7 +76,7 @@ article > header {
 
 body {
     padding: 0 0vw;
-    margin-top: 32px;
+    margin-top: 16px;
     padding-bottom: 4vw;
 }
 
